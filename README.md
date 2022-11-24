@@ -59,6 +59,17 @@
 ![image](https://user-images.githubusercontent.com/1501327/203873419-ee075995-51d6-4d81-8a3e-2e0c364ac286.png)\
 ![image](https://user-images.githubusercontent.com/1501327/203873457-588060c2-1484-4ad6-901a-d99103fe37a7.png)
 
-
-
+## site.xml => C:\Users\ユーザ名\AppData\Roaming\site.xml
+```xml
+<site-list version="1.0">
+  <site url="http://localhost">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="https://lightbox.sakura.ne.jp">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+</site-list>
+```
 
