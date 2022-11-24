@@ -52,3 +52,11 @@
 %systemroot%\system32\f12\IEChooser.exe
 ```
 
+## ActiveX 設定確認 => control.exe
+![image](https://user-images.githubusercontent.com/1501327/203873302-628652a9-74e8-4a6a-a6b1-7747776f8824.png)\
+![image](https://user-images.githubusercontent.com/1501327/203873332-76c29876-3d5a-493f-bab2-175fa9dede4a.png)\
+![image](https://user-images.githubusercontent.com/1501327/203873349-e4ae228f-1c72-4a2c-8c5c-0c501c5aad51.png)
+
+
+
+
