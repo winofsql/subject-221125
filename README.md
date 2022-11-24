@@ -43,7 +43,7 @@
 ![image](https://user-images.githubusercontent.com/1501327/203872448-c0c638de-41f9-45a3-aa9c-1a10a361fa8d.png)\
 ![image](https://user-images.githubusercontent.com/1501327/203872634-1cfe1aee-62bf-4e8b-9956-2c2c820b2e53.png)
 
-## Edge ビュー
+## Edge IE モードビュー
 
 ![image](https://user-images.githubusercontent.com/1501327/203873208-356cc5e8-de3b-4805-8e4d-7b5a29e0d9fc.png)
 
