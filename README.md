@@ -45,7 +45,7 @@
 
 ## Edge ビュー
 
-%systemroot%\system32\f12\IEChooser.exe
+![image](https://user-images.githubusercontent.com/1501327/203873208-356cc5e8-de3b-4805-8e4d-7b5a29e0d9fc.png)
 
 ## IE モードデバッグ
 ```
