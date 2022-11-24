@@ -55,7 +55,9 @@
 ## ActiveX 設定確認 => control.exe
 ![image](https://user-images.githubusercontent.com/1501327/203873302-628652a9-74e8-4a6a-a6b1-7747776f8824.png)\
 ![image](https://user-images.githubusercontent.com/1501327/203873332-76c29876-3d5a-493f-bab2-175fa9dede4a.png)\
-![image](https://user-images.githubusercontent.com/1501327/203873349-e4ae228f-1c72-4a2c-8c5c-0c501c5aad51.png)
+![image](https://user-images.githubusercontent.com/1501327/203873349-e4ae228f-1c72-4a2c-8c5c-0c501c5aad51.png)\
+![image](https://user-images.githubusercontent.com/1501327/203873419-ee075995-51d6-4d81-8a3e-2e0c364ac286.png)\
+![image](https://user-images.githubusercontent.com/1501327/203873457-588060c2-1484-4ad6-901a-d99103fe37a7.png)
 
 
 
