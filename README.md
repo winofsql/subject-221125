@@ -36,3 +36,6 @@
 ```
 
 ## [build-ie-mode.wsf](https://github.com/winofsql/wsh-vbs-excel-action/blob/main/hta/build-ie-mode.wsf)
+![image](https://user-images.githubusercontent.com/1501327/203872252-f1348da2-88a4-49c9-bd8e-a5bb90a6ce3a.png)
+![image](https://user-images.githubusercontent.com/1501327/203872308-9ae69ed3-7b5b-43ab-a334-1894b6d3149c.png)
+
