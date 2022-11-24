@@ -1,9 +1,21 @@
 # subject-221125
 
+## コンピューター\HKEY_CLASSES_ROOT\.hta
+```reg
+[HKEY_CLASSES_ROOT\.hta]
+@="htafile"
+"Content Type"="application/hta"
+"PerceivedType"="text"
+
+[HKEY_CLASSES_ROOT\.hta\OpenWithProgids]
+"VisualStudio.hta.ef253d73"=""
+
+[HKEY_CLASSES_ROOT\.hta\PersistentHandler]
+@="{eec97550-47a9-11cf-b952-00aa0051fe20}"
+```
+
 ## コンピューター\HKEY_CLASSES_ROOT\htafile
 ```reg
-Windows Registry Editor Version 5.00
-
 [HKEY_CLASSES_ROOT\htafile]
 @="HTML Application"
 "EditFlags"=dword:00100000
