@@ -34,3 +34,5 @@
 [HKEY_CLASSES_ROOT\htafile\Shell\Open\Command]
 @="C:\\Windows\\SysWOW64\\mshta.exe \"%1\" {1E460BD7-F1C3-4B2E-88BF-4E770A288AF5}%U{1E460BD7-F1C3-4B2E-88BF-4E770A288AF5} %*"
 ```
+
+## [build-ie-mode.wsf](https://github.com/winofsql/wsh-vbs-excel-action/blob/main/hta/build-ie-mode.wsf)
