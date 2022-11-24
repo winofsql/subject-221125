@@ -73,7 +73,7 @@
 </site-list>
 ```
 
-## Edge IE モードは 32ビット
+## Edge IE モードは 32ビット( ODBC ドライバに注意 )
 ```js
 // ▼ 32ビット用 ODBC ドライバ( IEモードの Edge ではこれを使う )
 connection_string = "Provider=MSDASQL;Driver={Microsoft Access Driver (*.mdb)};Dbq=" + db_path + ";";
