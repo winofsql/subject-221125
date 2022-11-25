@@ -1,7 +1,7 @@
 # subject-221125
 
 ## [販売管理.accdb](https://github.com/winofsql/resource-winofsql)
-"C:\app\workspace\販売管理.accdb"
+"C:\app\workspace\販売管理.accdb"\
 "G:\共有ドライブ\SE-WORK-DOWNLOAD\販売管理\販売管理.accdb"
 
 ## コンピューター\HKEY_CLASSES_ROOT\.hta
