@@ -6,9 +6,9 @@
 "G:\共有ドライブ\SE-WORK-DOWNLOAD\販売管理\販売管理.accdb"
 テーブル設計.xlsx
 ```
-▼ 
-ado-access-get-table-spec-excel-ex4.hta
-▼ 
+▼\ 
+ado-access-get-table-spec-excel-ex4.hta\
+▼\
 テーブル設計書を作成する
 
 ## コンピューター\HKEY_CLASSES_ROOT\.hta
